@@ -5,8 +5,8 @@ Live: https://igcse2021-prosecution.online/
 Web Applicaton in which the IGCSE 2021 students request thier rights with good & full responsive design
 
 ### Tech
--React.js
--JSX
--Bootstrap
--HTML
-CSS
+*React.js
+*JSX
+*Bootstrap
+*HTML
+*CSS
